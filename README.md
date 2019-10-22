@@ -33,6 +33,10 @@
         4. Convolutional Neural Networks
         5. Sequence Models
 
+
+## SQL Summer Camp 2019 by Kaggle
+[Certificate](https://github.com/yutsu/MOOC/blob/master/KaggleSQLSummerCampCertificate_100129.pdf)
+
 ## Other Completed Courses without certificates
-*   Welcome to Game Theory, The University of Tokyo, Grade Achieved: 100.0%
+* Welcome to Game Theory, The University of Tokyo, Grade Achieved: 100.0%
 * Python and Statistics for Financial Analysis, The Hong Kong University of Science and Technology, Grade Achieved: 100.0%
